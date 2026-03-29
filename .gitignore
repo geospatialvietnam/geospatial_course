@@ -1,0 +1,11 @@
+# ignore the following files and directories
+*.log
+*.tmp
+.DS_Store
+test_notebook.ipynb
+/04_machine_learning
+/05_deep_learning
+01_python_basics
+02_geospatial 
+03_geocloud
+data/vector
