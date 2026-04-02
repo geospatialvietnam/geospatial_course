@@ -9,3 +9,5 @@ test_notebook.ipynb
 02_geospatial 
 03_geocloud
 data/vector
+data/outputs
+book
