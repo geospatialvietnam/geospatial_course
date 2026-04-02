@@ -8,7 +8,7 @@ Khóa học này được thiết kế dành cho những ai muốn xây dựng k
 
 ## Cấu trúc khóa học
 
-### Phần 1 — Nền tảng Python (`01_python_basics/`)
+### Phần 1 — Nền tảng Python cơ bản
 
 Xây dựng nền tảng vững chắc về lập trình Python trước khi đi vào các công cụ địa không gian.
 
@@ -27,7 +27,7 @@ Xây dựng nền tảng vững chắc về lập trình Python trước khi đi
 
 ---
 
-### Phần 2 — Python Địa không gian (`02_geospatial/`)
+### Phần 2 — Python Địa không gian
 
 Các thư viện địa không gian cốt lõi để xử lý dữ liệu vector và raster trên máy cục bộ.
 
@@ -46,7 +46,7 @@ Các thư viện địa không gian cốt lõi để xử lý dữ liệu vector
 
 ---
 
-### Phần 3 — Nền tảng Địa không gian Đám mây (`03_geocloud/`)
+### Phần 3 — Nền tảng Địa không gian Đám mây
 
 Truy cập và xử lý dữ liệu địa không gian quy mô lớn trên các nền tảng đám mây.
 
@@ -56,7 +56,7 @@ Truy cập và xử lý dữ liệu địa không gian quy mô lớn trên các 
 | 21 | Google Earth Engine — Các thao tác cơ bản |
 | 22 | Google Earth Engine — Loại bỏ mây (Cloud masking) |
 | 23 | Google Earth Engine — Tính toán các chỉ số thực vật |
-| 24 | Google Earth Engine — Tổng hợp và ghép ảnh |
+| 24 | Google Earth Engine — Ảnh tổng hợp (Composites) |
 | 25 | Google Earth Engine — Trích xuất giá trị raster |
 | 26 | Google Earth Engine — Xuất dữ liệu |
 | 27 | Microsoft Planetary Computer — Truy cập dữ liệu |
@@ -76,28 +76,6 @@ Truy cập và xử lý dữ liệu địa không gian quy mô lớn trên các 
 
 Các phương pháp học sâu trong ứng dụng địa không gian như phân đoạn và phân loại ảnh *(sắp ra mắt)*.
 
----
-
-## Yêu cầu cài đặt
-
-Cài đặt tất cả các thư viện cần thiết bằng lệnh:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Bắt đầu
-
-Clone repository và khởi động Jupyter:
-
-```bash
-git clone <repo-url>
-cd geospatial_course
-jupyter lab
-```
-
-Bắt đầu với `book/01_python_basics/01_installation_setup.ipynb` nếu bạn mới học Python, hoặc chuyển thẳng sang Phần 2 nếu bạn đã có nền tảng Python.
-
 ## Dữ liệu
 
 Các tập dữ liệu mẫu sử dụng trong khóa học (bao gồm ranh giới hành chính Việt Nam và dữ liệu raster) được lưu trong thư mục `data/`.
@@ -105,3 +83,6 @@ Các tập dữ liệu mẫu sử dụng trong khóa học (bao gồm ranh giớ
 ## Giấy phép
 
 Dự án này là mã nguồn mở và được sử dụng tự do cho mục đích học tập.
+
+## Ghi chú
+Một phần nội dung của tài liệu này được hỗ trợ tạo bởi các công cụ AI. Tất cả nội dung đã được tác giả xem xét, chỉnh sửa, bổ sung và kiểm chứng nhằm đảm bảo tính chính xác và phù hợp.
