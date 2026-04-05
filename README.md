@@ -66,13 +66,13 @@ Truy cập và xử lý dữ liệu địa không gian quy mô lớn trên các 
 
 ---
 
-### Phần 4 — Machine Learning cho Địa không gian (`04_machine_learning/`)
+### Phần 4 — Machine Learning cho Địa không gian
 
 Ứng dụng các kỹ thuật học máy vào dữ liệu không gian và viễn thám *(sắp ra mắt)*.
 
 ---
 
-### Phần 5 — Deep Learning cho Địa không gian (`05_deep_learning/`)
+### Phần 5 — Deep Learning cho Địa không gian
 
 Các phương pháp học sâu trong ứng dụng địa không gian như phân đoạn và phân loại ảnh *(sắp ra mắt)*.
 
